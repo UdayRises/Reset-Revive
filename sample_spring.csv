@@ -1,0 +1,6 @@
+spring_id,village,latitude,longitude,rainfall_mm,slope_deg,infiltration_mm_hr,geology,forest_cover_pct,flow_decline_pct
+SPR-101,Example Village 1,30.0668,79.0193,1500,12,35,Fractured,70,40
+SPR-102,Example Village 2,30.0850,79.0450,1200,28,18,Moderate,45,65
+SPR-103,Example Village 3,30.0450,79.0500,1700,8,42,Fractured,80,25
+SPR-104,Example Village 4,30.1000,78.9900,1100,32,12,Unknown,28,80
+SPR-105,Example Village 5,30.0300,78.9800,1450,17,30,Moderate,60,55
